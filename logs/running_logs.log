@@ -1,0 +1,4 @@
+INFO : (2024-07-20 14:38:31,648) : Welcome to our custom log : (Line : 3) [demo.py]
+
+
+INFO : (2024-07-20 14:46:22,907) : Error occurred python script name [/Users/satvikbisht/Documents/AI/MLOPS/MLOPS-E2E-Project/demo.py] line number [9] error message [division by zero] : (Line : 12) [demo.py]
